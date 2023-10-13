@@ -7,7 +7,10 @@ import androidx.room.Query
 import kotlinx.coroutines.flow.Flow
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 @Dao
 interface WordDao {
 
