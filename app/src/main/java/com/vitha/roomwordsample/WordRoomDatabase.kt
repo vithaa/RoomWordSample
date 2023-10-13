@@ -11,10 +11,6 @@ public abstract class WordRoomDatabase : RoomDatabase() {
 
     abstract fun wordDao(): WordDao
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
     companion object {
         // Singleton prevents multiple instances of database opening at the
         // same time.
