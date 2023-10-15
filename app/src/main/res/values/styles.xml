@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <resources>
+        <color name="colorPrimary">#FF0000</color>
+        <color name="colorPrimaryDark">#000000</color>
+        <color name="colorAccent">#FFC107</color>
+    </resources>
+    <style name="word_title">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:background">@android:color/holo_orange_light</item>
+        <item name="android:textAppearance">@style/MyTextAppearanceLarge</item>
+    </style>
+    <style name="MyTextAppearanceLarge">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
